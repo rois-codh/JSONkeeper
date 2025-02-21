@@ -3,7 +3,6 @@
 
 import configparser
 import datetime
-from dateutil import tz
 import os
 import re
 import sys
